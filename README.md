@@ -22,7 +22,7 @@
 
 ###
 
-<h6 align="left">I'm ... from ....<br><br>- 🔭 I’m working as , currently a CS major<br>- 📚 I'm currently learning AI <br>- ⚡ In my free time I go gym also a chess player</h6>
+<h6 align="left">I'm Mamen Tamer Dhiaa Eddine from Algeria<br><br>- 🔭 I’m working as , currently a CS major<br>- 📚 I'm currently learning AI <br>- ⚡ In my free time I go gym also a chess player</h6>
 
 ###
 
